@@ -1,0 +1,18 @@
+Please can you share the below details for qa.
+
+service role&ARN,RDS Secret-name,and connection deatils like (connection name,jdbc url,security groups,subnet ids,availabilty zones),
+job script location(s3 bucket paths).
+
+please validate the earlier shared details:
+Redshift Secret-name = entanadmin-qa
+database name	     = entana-qa-analytics
+
+
+
+
+
+
+analytics
+
+
+entana-amy-analytics
